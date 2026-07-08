@@ -7,3 +7,4 @@ dependencies:
     - streamlit
     - snowflake-snowpark-python
     - requests
+    - pandas
