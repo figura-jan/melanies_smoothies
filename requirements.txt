@@ -3,8 +3,8 @@ snowflake-snowpark-python
 streamlit
 name: app_environment
 channels:
-  - snowflake
+    - snowflake
 dependencies:
-  - python=3.11.*
-  - snowflake-snowpark-python=
-  - streamlit=
+    - python=3.11.*
+    - snowflake-snowpark-python=
+    - streamlit=
